@@ -10,6 +10,8 @@ Information Collection and Use The App does not collect, transmit, or store any 
 
 Data Storage The App stores your learning progress (quiz scores and mastered words) locally on your device using your phone's native storage. This data remains on your device and is not shared with the developer or any third parties.
 
+Microphone and voice recognition. For oral expression exercises, you may use the microphone. Voice recognition is handled by the service integrated into your device (Google on Android, Apple on iPhone/iPad) or by your web browser, subject to the terms of that service. KataKosa does not record, store, or send your voice to any server. The application only receives the recognized text, which is used on your device to verify your answer and is subsequently deleted. You may also decline microphone access and type your answer instead.
+
 Third-Party Services The App does not use any third-party services that may collect information used to identify you.
 
 Changes to This Privacy Policy I may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
