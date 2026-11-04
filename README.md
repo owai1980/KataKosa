@@ -17,3 +17,5 @@ Third-Party Services The App does not use any third-party services that may coll
 Changes to This Privacy Policy I may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
 
 Contact If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+
+www.katakosa.com
